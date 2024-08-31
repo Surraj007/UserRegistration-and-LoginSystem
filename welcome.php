@@ -12,5 +12,5 @@ echo"Welcome! You are succesfully logged in.  <a href ='logout.php'>LogOut </a>"
 
 ?>
 <br>
-<a href="index.php">Register</a>
+<a href="register.php">Register</a>
 </center>
